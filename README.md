@@ -19,4 +19,7 @@ You will also see any lint errors in the console.
 This will run the testcase which isn't fully completed.
 
 
+### Below are the screenshots of the test 
+
+![image](https://github.com/shamoon1997/LetsRemotifyTest/assets/49757455/aa351356-b7be-4273-8bd6-6918cf079578)
 
